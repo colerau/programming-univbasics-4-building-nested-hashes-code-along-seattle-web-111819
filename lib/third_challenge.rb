@@ -28,7 +28,7 @@ def third_challenge
           "alive"
         }
         
-        },
+      },
       :hero_friends => []
    }, 
    :capulet => {
