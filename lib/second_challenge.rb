@@ -7,6 +7,7 @@ def second_challenge
       }
       :hero => {
       }
+      
       }
       }
     :capulet => {
